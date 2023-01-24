@@ -24,7 +24,7 @@
         echo "Error: Email not sent.";
     }
 
-    header("location:../index.html")
+    header("location: http://localhost/Customers/Management/github/amine-portfolio/index.html")
 
     // $subject = "Test Email using PHP mail";
     // $message = "This is a test email message sent using PHP mail.";
