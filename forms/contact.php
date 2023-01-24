@@ -24,6 +24,8 @@
         echo "Error: Email not sent.";
     }
 
+    header("location:../index.html")
+
     // $subject = "Test Email using PHP mail";
     // $message = "This is a test email message sent using PHP mail.";
     // $headers = "From: sender@example.com" . "\r\n" .
