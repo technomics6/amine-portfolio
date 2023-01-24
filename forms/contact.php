@@ -24,7 +24,7 @@
         echo "Error: Email not sent.";
     }
 
-    header("location: http://localhost/Customers/Management/github/amine-portfolio/index.html")
+    header("location: https://amine-portfolio-one.vercel.app/#about")
 
     // $subject = "Test Email using PHP mail";
     // $message = "This is a test email message sent using PHP mail.";
